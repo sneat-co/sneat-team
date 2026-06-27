@@ -39,7 +39,7 @@
     "@sneat/extension-contactus-contract": "0.12.1",
     "@sneat/extension-contactus-internal": "0.12.2",
     "@sneat/extension-contactus-shared": "0.12.2",
-    "@sneat/extension-team-contract": "link:../../sneat-team-ext/frontend",
+    "@sneat/extension-team-contract": "^0.1.0",
     "@sneat/extensions-schedulus-main": "0.9.0",
     "@sneat/extensions-schedulus-shared": "0.9.0",
     "@sneat/grid": "0.9.0",
